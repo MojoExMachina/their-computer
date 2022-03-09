@@ -2,4 +2,4 @@
 title: "Hello, World!"
 ---
 
-Und die Seite ist jetzt schon zweisprachig.
+This site is in its very early stages. Expect significant changes at unpredictable intervals. Have a nice pleasant day!
