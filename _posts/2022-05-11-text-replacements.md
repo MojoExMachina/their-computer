@@ -7,9 +7,9 @@ tags: [macOS, iOS, iPadOS]
 One of my favorite features in the Apple ecosystem is text replacement. It allows you to automatically replace custom text with predefined text and is useful in multiple scenarios. Replacements are synchronized between Mac and iOS devices, making workflows easy.
 
 See below a list of my own text replacements. Please copy them to your heart’s content.
-| Replace | With | Note |
-|---|---|---|
-| -> | → | |
+| Replace… | With… | *Note* |
+|-------|--------|:---------|
+| -> | → |  |
 | :alt | ⌥ | Mac Option key |
 | :caps | ⇪ | Caps key |
 | :cmd | ⌘ | Mac Command key |
@@ -17,10 +17,3 @@ See below a list of my own text replacements. Please copy them to your heart’s
 | :ctrl | ⌃ | Same as :control |
 
 In rare cases you don’t want your text to be replaced. To prevent a replacement from happening on macOS, press esc before pressing the space bar. On iOS click on the x in the text suggestion bubble.
-
-
-| Replace… | With… | *Note* |
-|-------|--------|---------|
-| -> | → |  |
-| :alt | ⌥ | Mac Option key |
-| :caps | ⇪ | Caps key |
