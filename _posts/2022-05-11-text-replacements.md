@@ -53,4 +53,5 @@ See below my own text replacements. Please copy them to your heart’s content.
 | <= | ≤ | Greater than or equal |
 | >= | ≥ | Smaller than or equal |
 
-In rare cases you don’t want your text to be replaced. To prevent a replacement from happening on macOS, press esc before pressing the space bar. On iOS click on the x in the text suggestion bubble.
+### Preventing Replacements
+In rare cases you don’t want your text to be replaced. To prevent a replacement from happening on macOS, press esc before pressing the space bar or press Cmd+Z immediatly after the replacements took place. On iOS click on the x in the text suggestion bubble or three-fnger-swipe to undo immediatly after the replacement took place.
