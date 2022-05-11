@@ -4,7 +4,7 @@ date: 2022-02-12
 tags: [typography, macOS, iOS, iPadOS]
 ---
 
-One of my favorite features in the Apple ecosystem is text replacement. It allows you to automatically replace custom strings with predefined text and is useful in multiple scenarios – not the least of which being that it makes typographic details more convenient. Replacements are synchronized between Mac and iOS devices, making workflows easy.
+One of my favourite features in the Apple ecosystem is text replacement. It allows you to automatically replace custom strings with predefined text and is useful in multiple scenarios – not the least of which being that it makes typographic details more convenient. Replacements are synchronised between Mac and iOS devices, making workflows easy.
 
 See below my own text replacements. Please copy them to your heart’s content.
 
@@ -56,4 +56,4 @@ See below my own text replacements. Please copy them to your heart’s content.
 | >= | ≥ | Smaller than or equal |
 
 ### Preventing Replacements
-In rare cases you don’t want your text to be replaced. To prevent a replacement from happening on macOS, press esc before pressing the space bar or press Cmd+Z immediatly after the replacements took place. On iOS click on the x in the text suggestion bubble or three-fnger-swipe to undo immediatly after the replacement took place.
+In rare cases you don’t want your text to be replaced. To prevent a replacement from happening on macOS, press esc before pressing the space bar or press Cmd+Z immediately after the replacements took place. On iOS click on the x in the text suggestion bubble or three-finger-swipe to undo immediately after the replacement took place.
