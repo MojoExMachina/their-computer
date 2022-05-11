@@ -16,32 +16,30 @@ See below a list of my own text replacements. Please copy them to your heart’s
 | <- | ← |  |
 | :prime | ′ | Prime; used as abbreviation for *minutes* |
 | :dprime | ″ | Double prime; used as abbreviation for *inches* or *seconds* |
-| :degree | ° | Degree symbol |
+| :degree *and* oo | ° | I don't use this glyph too often, but the additional shorthand is handy when I do |
 | :numero | № |  |
 | <3 | ♥ |  |
 | :mid | · | Midpoint; a versatile typographic element |
 | ^2 | ² | Superscript 2; often used for *m²* |
 | CO2 | CO₂ |  |
+| qm | m² |  |
 
 ### Keyboard symbols
 
 | Replace… | With… | *Note* |
 |-------|--------|:---------|
-| -> | → |  |
 | :alt | ⌥ | Mac Option key |
 | :caps | ⇪ | Caps key |
 | :cmd | ⌘ | Mac Command key |
-| :control | ⌃ | Mac Control key |
-| :ctrl | ⌃ | Mac Control key; same as :control |
-| :enter | \↩ | Enter key |
+| :ctrl *and* :control | ⌃ | Mac Control key |
+| :enter | ↩ | Enter key |
 | :shift | ⇧ | Shift key |
 
 ### Fractions and Math operators
 
 | Replace… | With… | *Note* |
 |-------|--------|:---------|
-| :multi | × | Multiplication sign |
-| xx | × | Multiplication sign; I use this glyph often, so I have a shorthand. |
+| :multi *and* xx | × | Multiplication sign; I use this often, so I also have a shorthand |
 | <= | ≤ | Greater-or-equal-to |
 | =/= | ≠ | Not-equal-to |
 | >= | ≥ | Smaller-or-equal-to |
