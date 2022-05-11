@@ -1,12 +1,12 @@
 ---
 title: "Text Replacements"
 date: 2022-02-12
-tags: [macOS, iOS, iPadOS]
+tags: [typography, macOS, iOS, iPadOS]
 ---
 
-One of my favorite features in the Apple ecosystem is text replacement. It allows you to automatically replace custom text with predefined text and is useful in multiple scenarios. Replacements are synchronized between Mac and iOS devices, making workflows easy.
+One of my favorite features in the Apple ecosystem is text replacement. It allows you to automatically replace custom strings with predefined text and is useful in multiple scenarios – not the least of which being that it enables typographic details . Replacements are synchronized between Mac and iOS devices, making workflows easy.
 
-See below a list of my own text replacements. Please copy them to your heart’s content.
+See below my own text replacements. Please copy them to your heart’s content.
 
 ### Typographic Details
 
@@ -14,16 +14,17 @@ See below a list of my own text replacements. Please copy them to your heart’s
 |-------|--------|:---------|
 | -> | → |  |
 | <- | ← |  |
+| :mid | · | Midpoint; a versatile typographic element |
 | :prime | ′ | Prime; used as abbreviation for *minutes* |
 | :dprime | ″ | Double prime; used as abbreviation for *inches* or *seconds* |
 | :degree *and* oo | ° | I don't use this glyph too often, but the additional shorthand is handy when I do |
 | :numero | № |  |
 | <3 | ♥ |  |
-| :mid | · | Midpoint; a versatile typographic element |
 | ^2 | ² |  |
+| m^2 | m² |  |
 | CO2 | CO₂ |  |
-| qm | m² |  |
 | Ios *and* ios *and* IOS | iOS |  |
+| macos | macOS |  |
 
 ### Keyboard symbols
 
@@ -41,15 +42,15 @@ See below a list of my own text replacements. Please copy them to your heart’s
 
 | Replace… | With… | *Note* |
 |-------|--------|:---------|
-| :multi *and* xx | × | Multiplication sign; I use this often, so I also have a shorthand |
-| <= | ≤ | Greater-or-equal-to |
-| =/= | ≠ | Not-equal-to |
-| >= | ≥ | Smaller-or-equal-to |
 | 1/2 | ½ |  |
 | 1/3 | ⅓ |  |
 | 1/4 | ¼ |  |
 | 1/8 | ⅛ |  |
 | 2/3 | ⅔ |  |
 | 3/4 | ¾ |  |
+| :multi *and* xx | × | Multiplication sign; I use this often, so I also have a shorthand |
+| =/= | ≠ | Not equal |
+| <= | ≤ | Greater than or equal |
+| >= | ≥ | Smaller than or equal |
 
 In rare cases you don’t want your text to be replaced. To prevent a replacement from happening on macOS, press esc before pressing the space bar. On iOS click on the x in the text suggestion bubble.
