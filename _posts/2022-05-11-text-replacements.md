@@ -4,7 +4,7 @@ date: 2022-05-11
 tags: [typography, macOS, iOS, iPadOS]
 ---
 
-One of my favourite features in the Apple ecosystem is text replacement. It allows you to automatically replace custom strings with predefined text and is useful in multiple scenarios – not the least of which being that it makes typographic details more convenient. Replacements are synchronised between Mac and iOS devices, making workflows easy.
+One of my favourite features in the Apple ecosystem is text replacement. It allows you to automatically replace custom strings with predefined text and is useful in multiple scenarios – not the least of which being that it makes the use of typographic details more convenient. Text Replacements are synchronised via iCloud between your Apple devices, making workflows easy.
 
 See below my own text replacements. Please copy them to your heart’s content.
 
