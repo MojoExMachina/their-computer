@@ -14,12 +14,14 @@ See below my own text replacements. Please copy them to your heart’s content.
 |-------|--------|:---------|
 | -> | → |  |
 | <- | ← |  |
+| :bullet | • |  |
 | :mid | · | Midpoint; a versatile typographic element |
 | :prime | ′ | Prime; used as abbreviation for *minutes* |
 | :dprime | ″ | Double prime; used as abbreviation for *inches* or *seconds* |
 | :degree *and* oo | ° | I don't use this glyph too often, but the additional shorthand is handy when I do |
 | :numero | № |  |
 | <3 | ♥ |  |
+| @@ | email@address.tld |  |
 | m^2 | m² |  |
 | CO2 | CO₂ |  |
 | Ios *and* ios *and* IOS | iOS |  |
