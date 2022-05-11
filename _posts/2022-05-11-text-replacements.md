@@ -1,6 +1,6 @@
 ---
 title: "Text Replacements"
-date: 2022-02-12
+date: 2022-05-11
 tags: [typography, macOS, iOS, iPadOS]
 ---
 
