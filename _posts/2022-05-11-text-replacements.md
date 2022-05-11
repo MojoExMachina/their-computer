@@ -22,5 +22,5 @@ In rare cases you don’t want your text to be replaced. To prevent a replacemen
 | Replace… | With… | *Note* |
 |-------|--------|---------|
 | -> | → |  |
-| pink lady | jazz | macintosh |
-| honeycrisp | granny smith | fuji |
+| :alt | ⌥ | Mac Option key |
+| :caps | ⇪ | Caps key |
