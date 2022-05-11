@@ -1,5 +1,5 @@
 ---
-title: "Hello, World!"
+title: "It's their computer, after all."
 ---
 
-This site is in its very early stages. Expect significant changes at unpredictable intervals. Have a pleasant day!
+This site is in its early stages. Expect significant changes at unpredictable intervals.
