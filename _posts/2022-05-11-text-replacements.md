@@ -45,7 +45,7 @@ See below my own text replacements. Please copy them to your heart’s content.
 | 1/8 | ⅛ |  |
 | 2/3 | ⅔ |  |
 | 3/4 | ¾ |  |
-| :multi *and* xx | × | Multiplication sign; I use this often, so I also have a shorthand |
+| :multi *and* xx | × | Multiplication sign; I use this often, so I also have the double-x shorthand |
 | =/= | ≠ | Not equal |
 | <= | ≤ | Greater than or equal |
 | >= | ≥ | Smaller than or equal |
