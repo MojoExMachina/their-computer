@@ -14,6 +14,16 @@ See below a list of my own text replacements. Please copy them to your heart’s
 | :caps | ⇪ | Caps key |
 | :cmd | ⌘ | Mac Command key |
 | :control | ⌃ | Mac Control key |
-| :ctrl | ⌃ | Same as :control |
+| :ctrl | ⌃ | Mac Control key; same as :control |
+| :dprime | ″ | Double prime; used as abbreviation for *inches* or *seconds* |
+| :enter | ↩ | Enter key |
+| :grad | ° | Degree |
+| :mid | · | Midpoint |
+| :multi | × | Multiplication sign |
+| :prime | ′ | Prime; used as abbreviation for *minutes* |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
 
 In rare cases you don’t want your text to be replaced. To prevent a replacement from happening on macOS, press esc before pressing the space bar. On iOS click on the x in the text suggestion bubble.
