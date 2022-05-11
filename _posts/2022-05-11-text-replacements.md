@@ -52,6 +52,8 @@ See below my own text replacements. Please copy them to your heart’s content.
 
 ### Word Replacements
 
+| Replace… | With… | *Note* |
+|-------|--------|:---------|
 | @@ | my.email@address.tld |  |
 | :tel | +12 345 678910 |  |
 | CO2 | CO₂ |  |
