@@ -27,7 +27,7 @@ See below my own text replacements. Please copy them to your heart’s content.
 | Replace… | With… | *Note* |
 |-------|--------|:---------|
 | :alt | ⌥ | Mac Option key |
-| :caps | ⇪ | Caps key |
+| :caps | ⇪ | Caps Lock key |
 | :cmd | ⌘ | Mac Command key |
 | :ctrl *and* :control | ⌃ | Mac Control key |
 | :delete | ⌫ | Delete key |
