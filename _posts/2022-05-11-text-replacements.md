@@ -12,20 +12,15 @@ See below my own text replacements. Please copy them to your heart’s content.
 
 | Replace… | With… | *Note* |
 |-------|--------|:---------|
-| -> | → |  |
-| <- | ← |  |
 | :bullet | • |  |
 | :mid | · | Midpoint; a versatile typographic element |
 | :prime | ′ | Prime; used as abbreviation for *minutes* |
 | :dprime | ″ | Double prime; used as abbreviation for *inches* or *seconds* |
-| :degree *and* oo | ° | I don't use this glyph too often, but the additional shorthand is handy when I do |
+| :degree | ° |  |
 | :numero | № |  |
+| -> | → |  |
+| <- | ← |  |
 | <3 | ♥ |  |
-| @@ | email@address.tld |  |
-| m^2 | m² |  |
-| CO2 | CO₂ |  |
-| Ios *and* ios *and* IOS | iOS |  |
-| macos | macOS |  |
 
 ### Keyboard symbols
 
@@ -35,8 +30,8 @@ See below my own text replacements. Please copy them to your heart’s content.
 | :caps | ⇪ | Caps key |
 | :cmd | ⌘ | Mac Command key |
 | :ctrl *and* :control | ⌃ | Mac Control key |
-| :enter | ↩ | Enter key |
 | :delete | ⌫ | Delete key |
+| :enter | ↩ | Enter key |
 | :shift | ⇧ | Shift key |
 
 ### Numbers and Math operators
@@ -54,6 +49,15 @@ See below my own text replacements. Please copy them to your heart’s content.
 | =/= | ≠ | Not equal |
 | <= | ≤ | Greater than or equal |
 | >= | ≥ | Smaller than or equal |
+
+### Word Replacements
+
+| @@ | my.email@address.tld |  |
+| :tel | +12 345 678910 |  |
+| CO2 | CO₂ |  |
+| ios | iOS |  |
+| macos | macOS |  |
+| m^2 | m² |  |
 
 ### Preventing Replacements
 In rare cases you don’t want your text to be replaced. To prevent a replacement from happening on macOS, press esc before pressing the space bar or press Cmd+Z immediately after the replacements took place. On iOS click on the x in the text suggestion bubble or three-finger-swipe to undo immediately after the replacement took place.
