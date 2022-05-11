@@ -8,7 +8,7 @@ One of my favorite features in the Apple ecosystem is text replacement. It allow
 
 See below a list of my own text replacements. Please copy them to your heart’s content.
 
-### Typographic Flourishes
+### Typographic Details
 
 | Replace… | With… | *Note* |
 |-------|--------|:---------|
@@ -20,9 +20,10 @@ See below a list of my own text replacements. Please copy them to your heart’s
 | :numero | № |  |
 | <3 | ♥ |  |
 | :mid | · | Midpoint; a versatile typographic element |
-| ^2 | ² | Superscript 2; often used for *m²* |
+| ^2 | ² |  |
 | CO2 | CO₂ |  |
 | qm | m² |  |
+| Ios *and* ios *and* IOS | iOS |  |
 
 ### Keyboard symbols
 
@@ -33,6 +34,7 @@ See below a list of my own text replacements. Please copy them to your heart’s
 | :cmd | ⌘ | Mac Command key |
 | :ctrl *and* :control | ⌃ | Mac Control key |
 | :enter | ↩ | Enter key |
+| :delete | ⌫ | Delete key |
 | :shift | ⇧ | Shift key |
 
 ### Fractions and Math operators
