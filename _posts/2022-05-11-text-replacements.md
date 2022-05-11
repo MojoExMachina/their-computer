@@ -8,7 +8,7 @@ One of my favorite features in the Apple ecosystem is text replacement. It allow
 
 See below a list of my own text replacements. Please copy them to your heart’s content.
 | Replace… | With… | *Note* |
-|-------|--------|:---------|
+|-------|--------|---------|
 | -> | → |  |
 | :alt | ⌥ | Mac Option key |
 | :caps | ⇪ | Caps key |
