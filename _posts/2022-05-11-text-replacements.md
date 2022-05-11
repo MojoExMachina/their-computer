@@ -7,6 +7,7 @@ tags: [macOS, iOS, iPadOS]
 One of my favorite features in the Apple ecosystem is text replacement. It allows you to automatically replace custom text with predefined text and is useful in multiple scenarios. Replacements are synchronized between Mac and iOS devices, making workflows easy.
 
 See below a list of my own text replacements. Please copy them to your heart’s content.
+
 | Replace… | With… | *Note* |
 |-------|--------|---------|
 | -> | → |  |
