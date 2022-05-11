@@ -8,7 +8,7 @@ One of my favorite features in the Apple ecosystem is text replacement. It allow
 
 See below a list of my own text replacements. Please copy them to your heart’s content.
 
-## Typographic Flourishes
+### Typographic Flourishes
 
 | Replace… | With… | *Note* |
 |-------|--------|:---------|
@@ -17,6 +17,8 @@ See below a list of my own text replacements. Please copy them to your heart’s
 | :prime | ′ | Prime; used as abbreviation for *minutes* |
 | :dprime | ″ | Double prime; used as abbreviation for *inches* or *seconds* |
 | :degree | ° | Degree symbol |
+| :numero | № |  |
+| <3 | ♥ |  |
 | :mid | · | Midpoint; a versatile typographic element |
 | ^2 | ² | Superscript 2; often used for *m²* |
 | CO2 | CO₂ |  |
@@ -31,10 +33,10 @@ See below a list of my own text replacements. Please copy them to your heart’s
 | :cmd | ⌘ | Mac Command key |
 | :control | ⌃ | Mac Control key |
 | :ctrl | ⌃ | Mac Control key; same as :control |
-| :enter | ↩ | Enter key |
+| :enter | \↩ | Enter key |
 | :shift | ⇧ | Shift key |
 
-#### Fractions and Math operators
+### Fractions and Math operators
 
 | Replace… | With… | *Note* |
 |-------|--------|:---------|
