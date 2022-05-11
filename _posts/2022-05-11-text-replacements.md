@@ -10,17 +10,17 @@ See below a list of my own text replacements. Please copy them to your heart’s
 | Replace | With | Note |
 |---|---|---|
 | -> | → | |
-| :alt | ⌥ | Mac option key; good for explaining shortcuts |
-| :caps | ⇪ | Caps key; good for explaining shortcuts |
-| :cmd | ⌘ | Mac Command key; good for explaining shortcuts |
-| :control | ⌃ | Mac Control key ;good for explaining shortcuts |
-| :ctrl | ⌃ | Mac Control key ;good for explaining shortcuts |
+| :alt | ⌥ | Mac Option key |
+| :caps | ⇪ | Caps key |
+| :cmd | ⌘ | Mac Command key |
+| :control | ⌃ | Mac Control key |
+| :ctrl | ⌃ | Same as :control |
 
 In rare cases you don’t want your text to be replaced. To prevent a replacement from happening on macOS, press esc before pressing the space bar. On iOS click on the x in the text suggestion bubble.
 
 
-| Priority apples | Second priority | Third priority |
+| Replace… | With… | *Note* |
 |-------|--------|---------|
-| ambrosia | gala | red delicious |
+| -> | → |  |
 | pink lady | jazz | macintosh |
 | honeycrisp | granny smith | fuji |
