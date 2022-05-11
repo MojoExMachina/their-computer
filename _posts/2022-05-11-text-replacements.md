@@ -20,7 +20,6 @@ See below my own text replacements. Please copy them to your heart’s content.
 | :degree *and* oo | ° | I don't use this glyph too often, but the additional shorthand is handy when I do |
 | :numero | № |  |
 | <3 | ♥ |  |
-| ^2 | ² |  |
 | m^2 | m² |  |
 | CO2 | CO₂ |  |
 | Ios *and* ios *and* IOS | iOS |  |
@@ -38,10 +37,11 @@ See below my own text replacements. Please copy them to your heart’s content.
 | :delete | ⌫ | Delete key |
 | :shift | ⇧ | Shift key |
 
-### Fractions and Math operators
+### Numbers and Math operators
 
 | Replace… | With… | *Note* |
 |-------|--------|:---------|
+| ^2 | ² |  |
 | 1/2 | ½ |  |
 | 1/3 | ⅓ |  |
 | 1/4 | ¼ |  |
